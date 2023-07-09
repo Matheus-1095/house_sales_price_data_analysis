@@ -1,9 +1,24 @@
 # House Sales Price - Data Analysis
 
-## Objetive
-Here is, I'm using the House Sales in King County, USA Dataset to do some data analysis and practice some data visualization and deployment skills.
+## Objective:
+In this project, I have used the House Sales in King County, USA dataset to perform data analysis and practice data visualization and deployment skills. The main question I aim to answer is: "Which houses should I buy for resale?"
 
-After all, I ended up developing and publishing a dashboard on Render to be used in the daily lives of business people, but the main question I want to answer is: "Which houses should I buy for resale?"
+## Context:
+The dataset used in this analysis contains information about house sales in King County, USA. By analyzing this dataset, I intend to gain insights into the factors that influence house prices and identify potential opportunities for buying houses for resale at a profit.
+
+## Approach:
+I have employed various data analysis techniques and tools to extract meaningful insights from the dataset. This includes data cleaning, exploratory data analysis, feature engineering, and predictive modeling. Additionally, I have utilized data visualization techniques to present the findings in an intuitive and informative manner.
+
+## Results:
+Through the analysis, I have identified key factors that impact house prices, such as location, square footage, number of bedrooms and bathrooms, and overall condition of the property. By considering these factors, I have generated recommendations on which houses would be suitable for purchasing with the intention of resale.
+
+## Dashboard Deployment:
+To make the insights easily accessible and usable for business people, I have developed a dashboard. The dashboard presents the findings and recommendations in an interactive and user-friendly format in the Render Cloud. It can be accessed through a web interface, making it convenient for users to explore the data and make informed decisions about potential house investments.
+
+## Conclusion:
+By leveraging the House Sales in King County, USA dataset and applying data analysis techniques, I have successfully identified houses that are promising for resale. The insights gained from this project can assist real estate investors and business professionals in making informed decisions about purchasing properties for resale, maximizing their profitability in the housing market.
+
+Note: Please make sure to provide appropriate references and acknowledgments for the dataset used and any other relevant resources.
 
 ## Get to know the data
 According to the author, this dataset contains prices or houses sold between May 2014 and May 2015 in King County including Seattle. The columns of this dataset is described below.
