@@ -1,1 +1,3 @@
-# house_rocket_sales
+# House Sales Price - Data Analysis
+
+## Objetive
