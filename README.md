@@ -7,7 +7,7 @@ In this project, I have used the House Sales in King County, USA dataset to perf
 The dataset used in this analysis contains information about house sales in King County, USA. By analyzing this dataset, I intend to gain insights into the factors that influence house prices and identify potential opportunities for buying houses for resale at a profit.
 
 ## Approach:
-I have employed various data analysis techniques and tools to extract meaningful insights from the dataset. This includes data cleaning, exploratory data analysis, feature engineering, and predictive modeling. Additionally, I have utilized data visualization techniques to present the findings in an intuitive and informative manner.
+I have employed various data analysis techniques and tools to extract meaningful insights from the dataset. This includes data cleaning, exploratory data analysis and geolocation data analysis. Additionally, I have utilized data visualization techniques to present the findings in an intuitive and informative manner.
 
 ## Results:
 Through the analysis, I have identified key factors that impact house prices, such as location, square footage, number of bedrooms and bathrooms, and overall condition of the property. By considering these factors, I have generated recommendations on which houses would be suitable for purchasing with the intention of resale.
